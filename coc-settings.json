@@ -1,0 +1,8 @@
+{
+  "svelte.enable-ts-plugin": true,
+  "filetypes": {
+    "blade": "html"
+  },
+  "inlayHint.enable": false,
+
+}
